@@ -1,0 +1,9 @@
+#movingBall {
+  height: 150px;
+  width: 150px;
+  background-color: aqua;
+  border-radius: 50%;
+  position: absolute;
+  top: 15%;
+  left: 15%;
+}
